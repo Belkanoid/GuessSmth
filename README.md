@@ -1,2 +1,0 @@
-# GuessSmth
- GuessSmth template

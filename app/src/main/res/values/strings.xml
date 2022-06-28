@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuessBolger</string>
+    <string name="main_menu_play_btn">Play</string>
+</resources>
